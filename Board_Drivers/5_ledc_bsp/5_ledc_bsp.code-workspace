@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"bsp_clk.h": "c",
+			"fsl_iomuxc.h": "c",
+			"bsp_delay.h": "c",
+			"mcimx6y2.h": "c",
+			"fsl_common.h": "c",
+			"i.max6ull.h": "c"
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"bsp_key.h": "c",
+			"fsl_common.h": "c",
+			"bsp_beep.h": "c",
+			"dirent.h": "c",
+			"mcimx6y2.h": "c"
+		}
+	}
+}
