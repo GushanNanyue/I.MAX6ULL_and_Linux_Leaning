@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cdev.h": "c",
+			"init.h": "c",
+			"ide.h": "c"
+		}
+	}
+}
